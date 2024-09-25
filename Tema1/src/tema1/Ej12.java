@@ -8,7 +8,8 @@ public class Ej12 {
 		Scanner sc = new Scanner(System.in);
 		// Crear variable
 		int kgMa,kgPe;
-		double VALORNA, VALORPE, convertir;
+		final double VALORNA, VALORPE;
+		double convertir;
 		VALORNA = 2.35;
 		VALORPE= 1.95;
 		// Preguntamos
